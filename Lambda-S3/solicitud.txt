@@ -1,0 +1,4 @@
+{
+    "name": "titulo-para-s3",
+    "image": "imagen-en-base-64"
+}

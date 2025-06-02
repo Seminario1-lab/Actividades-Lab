@@ -1,0 +1,17 @@
+{
+    "Version": "2012-10-17",
+    "Id": "Policy1741047959145",
+    "Statement": [
+        {
+            "Sid": "Stmt1741047955631",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": [
+                "s3:GetObject",
+                "s3:PutObject"
+            ],
+            "Resource": "ARN-DE-TU-S3"
+        }
+    ]
+}
+
