@@ -1,0 +1,15 @@
+http://localhost:9000/synthesize
+
+{
+  "text": "Hola, esta es una prueba de voz con Amazon Polly"
+}
+
+
+http://localhost:9000/synthesize2
+
+{
+  "text": "Hola, esta es una prueba de voz con Amazon Polly"
+}
+
+Sitio
+https://base64.guru/converter/decode/audio

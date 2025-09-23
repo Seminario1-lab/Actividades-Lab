@@ -1,0 +1,25 @@
+
+
+http://localhost:9000/translate
+
+----------------------Ejemplo EN Ingles----------------------
+{
+  "text": "Good morning, how are you?"
+}
+
+
+------------------------Ejemplo EN Ruso------------------------
+
+{
+  "text": "Доброе утро, как дела?"
+}
+
+--------------------------Ejemplo EN Japones-----------------------
+{
+  "text": "おはようございます、お元気ですか？"
+}
+
+--------------------------Ejemplo EN Italiano-----------------------
+{
+  "text": "Buongiorno, come stai?"
+}
