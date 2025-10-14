@@ -1,0 +1,30 @@
+Crear Nuevo Usuario
+
+http://localhost:9000/api/signup
+
+{
+  "email": "gerbertucubal117@gmail.com",
+  "password": "Prueba1*",
+  "name": "Emerson Ordonez",
+  "carnet": "202004060"
+}
+
+http://localhost:9000/api/login
+
+{
+  "email": "gerbertucubal117@gmail.com",
+  "password": "Prueba1*"
+}
+
+
+{
+  "email": "",
+  "password": "",
+  "name": "",
+  "carnet": ""
+}
+
+{
+  "email": "",
+  "password": ""
+}
